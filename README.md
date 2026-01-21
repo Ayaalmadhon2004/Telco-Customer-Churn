@@ -143,13 +143,13 @@ Reading the Excel file and converting it to CSV to make it easier to work with i
 
 ## and this is the results 
 
-![results](image-11.png)
-![results](image-12.png)
-![results](image-13.png)
-![chart of 8 ](image-14.png)
-![figure of 9 ](image-15.png)
-![figure of 10](image-16.png)
-![11&&12](image-17.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-17.png)
+![alt text](image-16.png)
 
 
 4️ Conclusions
